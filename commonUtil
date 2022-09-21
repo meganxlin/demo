@@ -1,2 +1,3 @@
 common stuff
-func helper() {some code for us1}
+func helper2() {some code for us2}
+func helper1() {some code for us1}
